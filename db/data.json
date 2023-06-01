@@ -23,6 +23,12 @@
       "title": "Material UI",
       "body": "Material UI is an open-source React component library that implements Google's Material Design. It includes a comprehensive collection of prebuilt components that are ready for use in production right out of the box.",
       "id": 6
+    },
+    {
+      "author": "Rabindranath Tagore",
+      "title": "Gitanjali",
+      "body": "Gitanjali is a collection of poems by the Bengali poet Rabindranath Tagore. Tagore received the Nobel Prize for Literature, for the English translation, Gitanjali:Song Offerings, making him the first non-European to receive this honor.",
+      "id": 7
     }
   ]
 }
